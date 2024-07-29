@@ -9,7 +9,7 @@ function customRander(rectElement,Container){
 const rectElement={
     type:'a',
     props:{
-        href : 'www.google.com',
+        href : 'https://google.com',
         target : '_blank'
     },
     children : "Click me to visit google"
